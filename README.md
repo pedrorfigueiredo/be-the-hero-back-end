@@ -14,7 +14,7 @@ This is the back-end side, made in Node.js.
 
 You'll need to install and run both the front-end and back-end (using npm or yarn) for making it work properly.
 
-Back-end: [Link](https://github.com/pedrorfigueiredo/be-the-hero-back-end)
+Front-end: [Link](https://github.com/pedrorfigueiredo/be-the-hero-front-end)
 
 ## Install
 
