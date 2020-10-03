@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Demo: [Be the Hero](https://seu-cantinho.web.app/)
+Demo: [Be the Hero](https://be-the-hero-front-end.vercel.app/)
 
 Be the Hero is an web app for sharing non-governmental Organizations.
 
