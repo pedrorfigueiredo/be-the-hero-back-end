@@ -8,7 +8,7 @@ Demo: [Be the Hero](https://be-the-hero-front-end.vercel.app/)
 
 Be the Hero is an web app for sharing non-governmental Organizations.
 
-It is an SPA (Single Page Application) served by a RESTful API, using the stack: React + React Native + Node.js + Express + PostgreSQL.
+It is a SPA (Single Page Application) served by a RESTful API, using the stack: React + React Native + Node.js + Express + PostgreSQL.
 
 This is the back-end side, made in Node.js.
 
